@@ -1,0 +1,36 @@
+body {
+    width: 500px;
+    height: 200px;
+    text-align: center;
+    border: 3px solid;
+    background-color: rgb(42, 234, 241);
+    
+    
+}
+
+/*table, th, td, a {
+    border: px solid black;
+}*/
+.container {
+    margin: 2px;
+    background-color: beige;
+}
+#foto {
+
+    margin: auto;
+    display: block;
+    width: 50%;
+    height: 10%;
+}
+.redes {
+    font-size: 1.5em;
+    border: px solid black;
+    margin: 0px;
+    background-color: beige;
+}
+.stack {
+    
+    background-color: beige;
+    border: 1xp solid black;
+    margin: 5px;
+}
